@@ -1,0 +1,35 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+// .key2 {
+    // background-color: orange;
+    // padding: 8px;
+    // border-radius: 50%;
+// }
+.key {
+    // background-color: orange;
+    // border-radius: 10px; 
+    padding: 10px;
+    display: flex;
+    background: #FFA801;
+border-radius: 14.4171px;
+
+}
+// .keyk {
+    // width: 27px; 
+// height: 18px;
+// }
+.zal {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 8px;
+line-height: 16px;
+/* identical to box height, or 200% */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
